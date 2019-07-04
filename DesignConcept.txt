@@ -1,0 +1,31 @@
+构思Anti-Sedentary
+
+界面1 时钟 
+计时，每一小时(演示时用10s代替） 跳转至界面2
+
+界面2 字符像沙子一样落下
+开始播放音乐
+
+按画板图案  进入界面3
+
+界面3 PickColor
+鼠标滚动选取颜色
+
+按皮卡丘可进入界面4
+
+界面4 Canvas
+超声波传感器测距离
+手的移动控制选定颜色的画笔左右移动
+超声波传感器同时控制rgbLED随着距离变化发出不同颜色的光
+
+画板Return按键返回界面3重新选取颜色
+
+home按钮返回界面1重新开始计时
+
+
+备选字体
+SnapITC-Regular
+3ds-Bold
+Arial-Black
+BerlinSansFB-Reg
+Jokerman-Regular-48
