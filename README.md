@@ -1,6 +1,6 @@
 # Anti-Sedentary
 ## Now it is time to stand up and move!
-**Made by WUYUE**
+**Final Project Done by WUYUE**
 
 
 ### 灵感来源
